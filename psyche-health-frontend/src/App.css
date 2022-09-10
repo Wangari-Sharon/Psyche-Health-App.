@@ -45,7 +45,7 @@ height: 100px;
 }
 
 
-/* .container {
+.container {
   display: flex;
   flex-direction: column;
   background-color: salmon;
@@ -53,18 +53,18 @@ height: 100px;
   padding: 31px;
   margin: 6px;
   float: left;
-} */
+}
 
 .title{
 margin: none;
 border: none;
 }
 
-/* .submit_btn{
+.submit_btn{
 border: none;
 background-color:aqua;
 width: 100px;
 height: 30px;
 border-radius: 5px;
 margin: 10px;
-} */
+}
